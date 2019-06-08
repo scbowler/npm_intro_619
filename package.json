@@ -1,0 +1,23 @@
+{
+  "name": "npm_intro",
+  "version": "1.0.0",
+  "description": "NPM demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scbowler/npm_intro_619.git"
+  },
+  "author": "Scott Bowler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scbowler/npm_intro_619/issues"
+  },
+  "homepage": "https://github.com/scbowler/npm_intro_619#readme",
+  "dependencies": {
+    "webpack": "^4.33.0",
+    "webpack-cli": "^3.3.3"
+  }
+}
